@@ -16,5 +16,5 @@ jobs:
       - name: python Commands
         run: |
           import platform
-          print (platform.professor())
+          print (platform.processor())
         shell: python
